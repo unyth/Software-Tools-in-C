@@ -25,7 +25,7 @@ int main() {
 
 	while((c = getchar()) != EOF) {
 
-		printf("%c", c);
+		putchar(c);
 
 	}
 
